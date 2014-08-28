@@ -24,3 +24,6 @@ logs
 bin
 root/xms/artifacts
 test-output
+
+# General ignoring rules
+*~
